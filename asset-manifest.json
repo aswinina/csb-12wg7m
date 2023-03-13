@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://aswinina.github.io/csb-12wg7m/static/css/main.9c07542f.chunk.css",
-    "main.js": "https://aswinina.github.io/csb-12wg7m/static/js/main.450eb41a.chunk.js",
-    "main.js.map": "https://aswinina.github.io/csb-12wg7m/static/js/main.450eb41a.chunk.js.map",
+    "main.js": "https://aswinina.github.io/csb-12wg7m/static/js/main.cddc850c.chunk.js",
+    "main.js.map": "https://aswinina.github.io/csb-12wg7m/static/js/main.cddc850c.chunk.js.map",
     "runtime-main.js": "https://aswinina.github.io/csb-12wg7m/static/js/runtime-main.53c46f35.js",
     "runtime-main.js.map": "https://aswinina.github.io/csb-12wg7m/static/js/runtime-main.53c46f35.js.map",
     "static/js/2.bf35ef9c.chunk.js": "https://aswinina.github.io/csb-12wg7m/static/js/2.bf35ef9c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.53c46f35.js",
     "static/js/2.bf35ef9c.chunk.js",
     "static/css/main.9c07542f.chunk.css",
-    "static/js/main.450eb41a.chunk.js"
+    "static/js/main.cddc850c.chunk.js"
   ]
 }
